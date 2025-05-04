@@ -1,14 +1,4 @@
 # A Script to Install Common Applications using Winget
-Table of Contents
------------------
-1.  Description
-2.  Prerequisites
-3.  Installation
-4.  Usage
-5.  Customization
-6.  Troubleshooting
-7.  Contributing
-8.  License
 
 1.  Description
     ------------
