@@ -45,7 +45,7 @@
 
 8.  License
     -------
-    -   This script is released under the MIT License
+    -   Feel Free to use this script for yourselves!
     
     Disclaimer:
     -----------
