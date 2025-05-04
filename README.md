@@ -2,7 +2,7 @@
 
 1.  Description
     ------------
-    This script automates the installation of commonly used Windows applications using the Winget package manager.  It's designed to help you quickly set up a new Windows PC with your favorite tools.
+    This script automates the installation of commonly used Windows applications using the Winget package manager.  It's designed to help quickly set up a new Windows PC with my favorite tools.
 
 2.  Prerequisites
     -------------
@@ -50,13 +50,3 @@
     Disclaimer:
     -----------
     Use this script at your own risk.  The author is not responsible for any issues caused by the installation of these applications.  Always review the script before running it.
-"@
-
-# Define the output file path
-$outputFilePath = "Readme.txt"
-
-# Write the content to the file
-$readmeContent | Out-File -FilePath $outputFilePath -Encoding utf8
-
-# Output a success message
-Write-Host "Readme.txt file created successfully at $($outputFilePath)" -ForegroundColor Green
